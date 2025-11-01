@@ -1,0 +1,72 @@
+[
+          {
+                    "id": 1,
+                    "name": "Arjun",
+                    "age": 22,
+                    "city": "Delhi",
+                    "score": 89
+          },
+          {
+                    "id": 2,
+                    "name": "Meera",
+                    "age": 25,
+                    "city": "Mumbai",
+                    "score": 95
+          },
+          {
+                    "id": 3,
+                    "name": "Rahul",
+                    "age": 21,
+                    "city": "Bangalore",
+                    "score": 78
+          },
+          {
+                    "id": 4,
+                    "name": "Simran",
+                    "age": 24,
+                    "city": "Chennai",
+                    "score": 85
+          },
+          {
+                    "id": 5,
+                    "name": "Karan",
+                    "age": 23,
+                    "city": "Hyderabad",
+                    "score": 92
+          },
+          {
+                    "id": 6,
+                    "name": "Ananya",
+                    "age": 22,
+                    "city": "Pune",
+                    "score": 88
+          },
+          {
+                    "id": 7,
+                    "name": "Dev",
+                    "age": 26,
+                    "city": "Kolkata",
+                    "score": 81
+          },
+          {
+                    "id": 8,
+                    "name": "Priya",
+                    "age": 20,
+                    "city": "Jaipur",
+                    "score": 90
+          },
+          {
+                    "id": 9,
+                    "name": "Rohan",
+                    "age": 27,
+                    "city": "Ahmedabad",
+                    "score": 84
+          },
+          {
+                    "id": 10,
+                    "name": "Neha",
+                    "age": 23,
+                    "city": "Lucknow",
+                    "score": 91
+          }
+]
